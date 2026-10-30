@@ -47,5 +47,5 @@ end.
 
 //komentar penjelasan
 //4 array (tugas, kuis, uts, uas) untuk menyimpan nilai, dan 1 array rata untuk rata-ratanya
-//Rata-rata dihitung dengan menjumlahkan keempat nilai lalu dibagi 4
+//rata-rata dihitung dengan menjumlahkan keempat nilai lalu dibagi 4
 //if rata[i] >= 70 menentukan keterangan lulus atau tidak
